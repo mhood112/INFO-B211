@@ -1,3 +1,5 @@
 # INFO-B211
 
 ## **Assignment One - Standard Modules**
+
+#### The purpose of this code is to generate random passwords that are based on the user input, and put them into two different files. Before running the program be sure to import the necessary modules: random, string, os, datetime. I also recommend putting this python code into a separate file on your computer, because the final output is going to be two additional files and it is easier to locate them when they are together. When this code is ran, it will ask the user the desired length of the password. This will only accept  positive whole number values. Then it will ask the user if they would like to include punctuation symbols. This will only take the form of yes or no answers. Then the final question is going to be if there are any characters that the user would like to exclude. Then it will generate 1000 passworded randomly choosing between memorable and random types. With these passwords, the timestamp will be included as well. The two types will be in two files named memorable and random. If you inlcude this code in a folder, then those two files will be included with it.
